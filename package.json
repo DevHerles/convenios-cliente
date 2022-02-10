@@ -14,7 +14,7 @@
     "formix": "0.0.1",
     "moment": "^2.24.0",
     "mousetrap": "^1.6.3",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "rc-slider": "^8.7.1",
     "rc-switch": "^1.9.0",
     "react": "^16.12.0",
